@@ -1,0 +1,41 @@
+html {
+    scroll-behavior: smooth;
+  }
+.banner {
+    margin-top: 56px;
+}
+.services {
+    margin-top: 100px;
+}
+.services h2 {
+    color: #0072ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.works{
+    margin-top: 100px;
+}
+.works h3 {
+    color: #0072ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contact {
+    margin-top: 100px;
+}
+.contact h3{
+    color: #0072ff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bg-dark{
+    background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+}
+footer {
+    color: #fff
+    ;
+    background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
